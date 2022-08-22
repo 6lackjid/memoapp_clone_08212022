@@ -1,0 +1,24 @@
+{
+  "name": "memoapp_clone_08212022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6lackjid/memoapp_clone_08212022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6lackjid/memoapp_clone_08212022/issues"
+  },
+  "homepage": "https://github.com/6lackjid/memoapp_clone_08212022#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
